@@ -1,0 +1,1 @@
+console.log("Ajax in one video");
